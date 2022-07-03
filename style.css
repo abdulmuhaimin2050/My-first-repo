@@ -24,3 +24,12 @@ img{
     width: 500px;
     border-radius: 10px;
 }
+.azhar-img{
+    display: block;
+    width: 500px;
+    margin-top:20px;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
